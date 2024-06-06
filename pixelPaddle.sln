@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pixelPaddle", "pixelPaddle.vcxproj", "{446FA08A-8C60-4B96-9ADE-A23C9AF6D401}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{446FA08A-8C60-4B96-9ADE-A23C9AF6D401}.Debug|x64.ActiveCfg = Debug|x64
+		{446FA08A-8C60-4B96-9ADE-A23C9AF6D401}.Debug|x64.Build.0 = Debug|x64
+		{446FA08A-8C60-4B96-9ADE-A23C9AF6D401}.Debug|x86.ActiveCfg = Debug|Win32
+		{446FA08A-8C60-4B96-9ADE-A23C9AF6D401}.Debug|x86.Build.0 = Debug|Win32
+		{446FA08A-8C60-4B96-9ADE-A23C9AF6D401}.Release|x64.ActiveCfg = Release|x64
+		{446FA08A-8C60-4B96-9ADE-A23C9AF6D401}.Release|x64.Build.0 = Release|x64
+		{446FA08A-8C60-4B96-9ADE-A23C9AF6D401}.Release|x86.ActiveCfg = Release|Win32
+		{446FA08A-8C60-4B96-9ADE-A23C9AF6D401}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F03D4E9-CB9A-4226-AC83-6AFEF2F095E2}
+	EndGlobalSection
+EndGlobal
